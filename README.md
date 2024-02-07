@@ -34,4 +34,6 @@ Las listas enlazadas tienen un problema similar. Supongamos que quieres leer el 
 
 Los arrays son diferentes. Conoces la dirección de cada ítem en tu array. Por ejemplo, supongamos que tu array contiene cinco ítems, y sabes que comienza en la dirección 00. ¿Cuál es la dirección del ítem #5?
 
+### Importante: https://www.it.uc3m.es/java/2012-13/units/pilas-colas/guides/2/guide_es_solution.html
+
 La matemática simple te lo dice: es el 04. Los arrays son geniales si quieres leer elementos aleatorios, porque puedes buscar cualquier elemento en tu array instantáneamente. Con una lista enlazada, los elementos no están uno al lado del otro, así que no puedes calcular instantáneamente la posición del quinto elemento en la memoria; tienes que ir al primer elemento para obtener la dirección al segundo elemento, luego ir al segundo elemento para obtener la dirección del tercer elemento, y así sucesivamente hasta llegar al quinto elemento.
