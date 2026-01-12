@@ -1,6 +1,6 @@
 # Arrays y listas enlazadas de Grokking Algorithms
 
-# Para afrontar https://www.codewars.com/kata/55d17ddd6d7868493e000074/train/java
+# Para afrontar https://www.codewars.com/kata/55d17ddd6d7868493e000074/train/java 
 
 A veces necesitas almacenar una lista de elementos en la memoria. Supongamos que estás escribiendo una aplicación para gestionar tus tareas pendientes. Querrás almacenar las tareas como una lista en la memoria.
 
